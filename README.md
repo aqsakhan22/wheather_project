@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 #flutter Version
-flutter version I used 3.10.1
-first download flutter sdk version 3.10.1
-then download this folder and attach flutter sdk location 
-go pubspec.yaml file and click on top right pub get 
-and press play button of android studio software
+flutter version I used 3.10.1.
+first download flutter sdk version 3.10.1.
+then download this folder and attach flutter sdk location .
+go pubspec.yaml file and click on top right pub get .
+and press play button of android studio software .
